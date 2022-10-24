@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 24 (23)
 - Psaumes 24 (23)
 - Ps 24 (23)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/24_23
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 24 (23)

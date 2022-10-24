@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 48 (47)
 - Psaumes 48 (47)
 - Ps 48 (47)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/48_47
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 48 (47)

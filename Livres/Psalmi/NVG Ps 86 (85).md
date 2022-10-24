@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 86 (85)
 - Psaumes 86 (85)
 - Ps 86 (85)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/86_85
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 86 (85)

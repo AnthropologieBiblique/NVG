@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclesiastes 7
 - Ecclésiaste 7
 - Qo 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/7
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Ecclesiastes 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 64 (63)
 - Psaumes 64 (63)
 - Ps 64 (63)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/64_63
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 64 (63)

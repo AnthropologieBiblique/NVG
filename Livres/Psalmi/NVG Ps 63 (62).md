@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 63 (62)
 - Psaumes 63 (62)
 - Ps 63 (62)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/63_62
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 63 (62)

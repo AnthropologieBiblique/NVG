@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 47 (46)
 - Psaumes 47 (46)
 - Ps 47 (46)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/47_46
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 47 (46)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 32 (31)
 - Psaumes 32 (31)
 - Ps 32 (31)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/32_31
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 32 (31)

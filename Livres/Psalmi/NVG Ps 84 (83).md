@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 84 (83)
 - Psaumes 84 (83)
 - Ps 84 (83)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/84_83
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 84 (83)

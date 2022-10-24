@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 40 (39)
 - Psaumes 40 (39)
 - Ps 40 (39)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/40_39
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 40 (39)

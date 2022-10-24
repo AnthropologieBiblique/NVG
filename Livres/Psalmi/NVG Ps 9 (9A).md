@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 9 (9A)
 - Psaumes 9 (9A)
 - Ps 9 (9A)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/9_9A
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 9 (9A)

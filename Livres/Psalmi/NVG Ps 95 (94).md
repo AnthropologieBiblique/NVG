@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 95 (94)
 - Psaumes 95 (94)
 - Ps 95 (94)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/95_94
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 95 (94)

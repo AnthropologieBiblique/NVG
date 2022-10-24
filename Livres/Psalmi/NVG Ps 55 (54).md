@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 55 (54)
 - Psaumes 55 (54)
 - Ps 55 (54)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/55_54
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 55 (54)

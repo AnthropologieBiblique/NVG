@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 68 (67)
 - Psaumes 68 (67)
 - Ps 68 (67)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/68_67
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 68 (67)

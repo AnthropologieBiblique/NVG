@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 91 (90)
 - Psaumes 91 (90)
 - Ps 91 (90)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/91_90
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 91 (90)

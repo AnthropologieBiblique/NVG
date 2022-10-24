@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 56 (55)
 - Psaumes 56 (55)
 - Ps 56 (55)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/56_55
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 56 (55)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 38 (37)
 - Psaumes 38 (37)
 - Ps 38 (37)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/38_37
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 38 (37)

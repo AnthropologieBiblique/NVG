@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 89 (88)
 - Psaumes 89 (88)
 - Ps 89 (88)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/89_88
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 89 (88)

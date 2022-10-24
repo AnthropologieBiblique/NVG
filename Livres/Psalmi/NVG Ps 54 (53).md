@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 54 (53)
 - Psaumes 54 (53)
 - Ps 54 (53)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/54_53
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 54 (53)

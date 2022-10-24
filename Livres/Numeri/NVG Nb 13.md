@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Numeri 13
 - Nombres 13
 - Nb 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/13
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Numeri 13

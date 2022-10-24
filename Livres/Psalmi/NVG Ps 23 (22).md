@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 23 (22)
 - Psaumes 23 (22)
 - Ps 23 (22)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/23_22
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 23 (22)

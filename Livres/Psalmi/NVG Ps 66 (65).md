@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 66 (65)
 - Psaumes 66 (65)
 - Ps 66 (65)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/66_65
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 66 (65)

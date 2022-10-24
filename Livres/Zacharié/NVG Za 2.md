@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharié 2
 - Zacharie 1
 - Za 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/1
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Zacharié 2

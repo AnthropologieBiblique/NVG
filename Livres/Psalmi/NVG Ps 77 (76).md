@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 77 (76)
 - Psaumes 77 (76)
 - Ps 77 (76)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/77_76
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 77 (76)

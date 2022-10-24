@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 35 (34)
 - Psaumes 35 (34)
 - Ps 35 (34)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/35_34
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 35 (34)

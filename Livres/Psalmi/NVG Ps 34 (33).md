@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 34 (33)
 - Psaumes 34 (33)
 - Ps 34 (33)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/34_33
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 34 (33)

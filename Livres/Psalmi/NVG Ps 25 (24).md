@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 25 (24)
 - Psaumes 25 (24)
 - Ps 25 (24)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/25_24
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 25 (24)

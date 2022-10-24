@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psalmi 70 (69)
 - Psaumes 70 (69)
 - Ps 70 (69)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/70_69
 - latin
 cssclass : latin
+direction : ltr
 ---
 
 # Psalmi 70 (69)
